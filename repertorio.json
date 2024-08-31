@@ -1,0 +1,32 @@
+[
+  {
+    "id": 204,
+    "titulo": "somewhere i belong",
+    "artista": "linkin park ",
+    "tono": "alto"
+  },
+  {
+    "id": 5946,
+    "titulo": "tratame suavemente",
+    "artista": "soda estereo",
+    "tono": "alto"
+  },
+  {
+    "id": 5181,
+    "titulo": " All the Small Things",
+    "artista": " Blink-182",
+    "tono": "c"
+  },
+  {
+    "id": "7657",
+    "titulo": "What's My Age Again",
+    "artista": "Blink-182",
+    "tono": "G"
+  },
+  {
+    "id": 1724,
+    "titulo": " Bye Bye Bye",
+    "artista": "NSYNC",
+    "tono": "Alto"
+  }
+]
